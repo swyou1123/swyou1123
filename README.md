@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=YouSeungWoo&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=YouSeungWoo&fontSize=90&fontColor=d6ace6)
 
 ### Hi there 👋
 
