@@ -1,6 +1,4 @@
-<div>
-  ![image](https://user-images.githubusercontent.com/98148597/203195078-125f442e-2fde-426f-8dc6-7110a8311ac5.png)
-</div>
+![image](https://user-images.githubusercontent.com/98148597/203195078-125f442e-2fde-426f-8dc6-7110a8311ac5.png)
 
 ### Hi there 👋
 
