@@ -3,12 +3,6 @@
 <div align="center">⚒Tech Stack⚒ </div>
 
 
- <p align="center">
-  
-<img src="https://user-images.githubusercontent.com/94892374/203706639-6480352e-3613-4e23-bf47-8671beb0f407.png">
-
-</p>
-
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejin-github&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
