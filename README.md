@@ -8,8 +8,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swyou1123&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swyou1123)](https://github.com/hyejin-github/github-readme-stats)
 
-  ### Hi Welcom, I'm HYEJIN KIM 🔥😎
-
 #### Backend-Developer
 
 
@@ -20,7 +18,7 @@
 
 #### 📢 Communication Skill
 
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/PostMan-D24939?style=for-the-badge&logo=PostMan&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-010101?style=for-the-badge&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/tistory-A8B9CC?style=for-the-badge&logo=tistory&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/PostMan-D24939?style=for-the-badge&logo=PostMan&logoColor=white"/> 
   
 </div>
 
@@ -30,36 +28,26 @@
 ### 👩 ABOUT ME 
 <hr />
 
-- Name : Kim HyeJin
-- Birth : 1998.12.04
+- Name : You SeungWoo
+- Birth : 1997.11.04
 - College : Chonnam National University
 - Email : aa981204@naver.com
-- Tistory : https://luceinalitis.tistory.com/
 
 ### 🔥 Experience
 <hr />
 
-- 2019.03 ~ 2019.12 전남대학교 전자컴퓨터공학부 학술동아리 PIE(Play In English) 회장
-- 2019.19 ~ 2019.12 함성소리(교육 기부 봉사활동) 팀장
-- 2022.01 ~ 2022.05 SSAFY(삼성청년소프트웨어아카데미) 7기 1학기 반장
 - 2022.01 ~ 2022.12 SSAFY(삼성청년소프트웨어아카데미) 7기
-
-### 🏦 Career
-<hr />
-
-- 2020.01 ~ 2020.02 한국전자정보통신연구원(ETRI) 연구연수생
-- 2021.09 ~ 2021.12 ICT인턴쉽(APEXSOFT) 인턴
 
 ### 🥇 Certificates
 <hr />
 
 - 2021 정보처리기사
-- 2022 SQLD(SQL개발자)
+- 2019 네트워크관리사2급
 
 ### 🏆 Awards
 <hr />
 
-- 2022 삼성청년소프트웨어 공통프로젝트 우수상(나혼자잘산다)
+- 2022 삼성청년소프트웨어 공통프로젝트 우수상(SSOKDAM)
 - 2022 삼성청년소프트웨어 자율프로젝트 우수상(HandFarm)
 
 <br />
