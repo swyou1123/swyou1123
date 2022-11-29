@@ -5,8 +5,8 @@
 
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejin-github&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyejin-github)](https://github.com/hyejin-github/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swyou1123&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swyou1123)](https://github.com/hyejin-github/github-readme-stats)
 
   ### Hi Welcom, I'm HYEJIN KIM 🔥😎
 
